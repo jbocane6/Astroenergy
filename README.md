@@ -8,7 +8,7 @@
   ## About this Repo
   #### This repo contains all the pages to a webservice in production, called Astroenergy.
   #### This began as the final project of the technology in analyse and design of information systems, at SENA.
-  #### Since then, i was adding and styling features to meke it more efficient.
+  #### Since then, i was adding and styling features to make it more efficient.
   #### The folder htdocs must be copy in the directory with the same name in XAMPP or the server required, and the database can be imported in a database named astroenergy
   
   <div>
